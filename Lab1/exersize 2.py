@@ -1,0 +1,7 @@
+print("My name is Kegan Firey")
+print("My major is Electrical Engineering") 
+print("My hobbies are:")
+print("Playing games (board, card, or video)")
+print("3d Printing")
+print("Reading")
+print("Goodbye")

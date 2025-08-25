@@ -1,0 +1,8 @@
+print("' ' '")
+print("Author: Kegan Firey")
+print("KUID: 3176824")
+print("Date: 25AUG25")
+print("Lab: lab01")
+print("Last modified: 25AUG25")
+print("Purpose: Code prints a brief description of its creator")
+print("' ' '")
